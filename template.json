@@ -1,0 +1,10 @@
+{
+  "type": 1,
+  "title": "PaperMC",
+  "description": "Paper is the next generation of Minecraft server, compatible with Spigot plugins and offering uncompromising performance.",
+  "logo": "https://papermc.io/images/logo-marker.svg?v=2ca03d456bd669f9",
+  "image": "phyremaster/papermc",
+  "ports": [
+    "25565:25565/tcp"
+  ]
+}
